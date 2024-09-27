@@ -1,0 +1,10 @@
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\bin\Debug\BAI TAP BUOI 03 27-09-2024.exe.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\bin\Debug\BAI TAP BUOI 03 27-09-2024.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\bin\Debug\BAI TAP BUOI 03 27-09-2024.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI TAP BUOI 03 27-09-2024.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI_TAP_BUOI_03_27_09_2024.Form1.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI_TAP_BUOI_03_27_09_2024.Properties.Resources.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI TAP BUOI 03 27-09-2024.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI TAP BUOI 03 27-09-2024.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI TAP BUOI 03 27-09-2024.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\BAI TAP BUOI 03 27-09-2024\obj\Debug\BAI TAP BUOI 03 27-09-2024.pdb
