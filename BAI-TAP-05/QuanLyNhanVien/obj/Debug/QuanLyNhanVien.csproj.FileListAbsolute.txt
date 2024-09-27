@@ -1,0 +1,11 @@
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form1.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form2.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 03 27-09-2024\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

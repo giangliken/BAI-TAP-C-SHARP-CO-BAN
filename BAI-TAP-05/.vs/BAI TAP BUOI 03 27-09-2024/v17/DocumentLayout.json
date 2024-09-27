@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 03 27-09-2024\\quanlynhanvien\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\quanlynhanvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\quanlynhanvien\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\quanlynhanvien\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BFA8C9A-CCB8-47CF-BD9B-527F4142DA05}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:06:10.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form2.Designer.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.Designer.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Form2.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwG8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:17:45.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.Designer.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.Designer.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:11:08.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form2.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Form2.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:06:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:03:37.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form2.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 03 27-09-2024\\QuanLyNhanVien\\Form2.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:51:37.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
