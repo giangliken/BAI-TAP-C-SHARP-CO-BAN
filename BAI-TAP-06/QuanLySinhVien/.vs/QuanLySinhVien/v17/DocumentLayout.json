@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\tai lieu hoc tap\\lap trinh tren moi truong windows\\bai tap buoi 05 04-10-2024\\quanlysinhvien\\quanlysinhvien\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F17DF-B3A5-422A-9834-38D91662DDFE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\App.config",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\App.config",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\App.config",
+              "RelativeToolTip": "QuanLySinhVien\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAADLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-04T03:27:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SINHVIEN.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\SINHVIEN.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\SINHVIEN.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\SINHVIEN.cs",
+              "RelativeToolTip": "QuanLySinhVien\\SINHVIEN.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:23:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KHOA.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\KHOA.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\KHOA.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\KHOA.cs",
+              "RelativeToolTip": "QuanLySinhVien\\KHOA.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:23:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Model1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Model1.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Model1.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Model1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:19:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Form1.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Form1.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAADwv8YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:17:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Form1.cs",
+              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 05 04-10-2024\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLySinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:09:41.845Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
