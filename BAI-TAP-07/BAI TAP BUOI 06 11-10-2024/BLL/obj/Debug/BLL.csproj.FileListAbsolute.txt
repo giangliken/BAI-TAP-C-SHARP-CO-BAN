@@ -1,0 +1,15 @@
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\BLL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\BLL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\BLL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\DAL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\EntityFramework.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\DAL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\DAL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\EntityFramework.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\obj\Debug\BLL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 06 11-10-2024\BAI TAP BUOI 06 11-10-2024\BLL\obj\Debug\BLL.pdb
