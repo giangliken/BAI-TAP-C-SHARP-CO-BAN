@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|d:\\code\\c#\\bai-tap-c-sharp-co-ban\\bai-tap-07\\bai tap buoi 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bll\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|solutionrelative:bll\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|d:\\code\\c#\\bai-tap-c-sharp-co-ban\\bai-tap-07\\bai tap buoi 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EA6F71-D48E-4210-A929-2003DC27EB82}|DAL\\DAL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EA6F71-D48E-4210-A929-2003DC27EB82}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +27,20 @@
       "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|solutionrelative:bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|solutionrelative:bai tap buoi 06 11-10-2024\\frmquanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|solutionrelative:bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7D3C3A-AE2E-403F-AE2A-162A65A95992}|BLL\\BLL.csproj|solutionrelative:bll\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EA6F71-D48E-4210-A929-2003DC27EB82}|DAL\\DAL.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EA6F71-D48E-4210-A929-2003DC27EB82}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C9AD539-5039-4731-B7A1-4919EE32EC43}|BAI TAP BUOI 06 11-10-2024\\GUI.csproj|D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\bai tap buoi 06 11-10-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,8 @@
               "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.Designer.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAIAwwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:53:06.891Z"
+              "WhenOpened": "2024-10-13T16:53:06.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Major.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\DAL\\Entities\\Major.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\Major.cs",
@@ -126,50 +127,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmQuanLyChuyenNganh.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
               "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAnwFwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:44:51.83Z"
+              "WhenOpened": "2024-10-13T16:44:51.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "frmQuanLyChuyenNganh.cs [Design]",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs",
-              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs [Design]",
+              "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs [Design]",
+              "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyChuyenNganh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:58:09.537Z"
+              "WhenOpened": "2024-10-13T14:58:09.537Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MajorService.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BLL\\MajorService.cs",
               "RelativeDocumentMoniker": "BLL\\MajorService.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BLL\\MajorService.cs",
               "RelativeToolTip": "BLL\\MajorService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywEkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:54:41.476Z"
+              "WhenOpened": "2024-10-13T14:54:41.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BLL\\StudentService.cs",
               "RelativeDocumentMoniker": "BLL\\StudentService.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BLL\\StudentService.cs",
               "RelativeToolTip": "BLL\\StudentService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:51:36.101Z"
+              "WhenOpened": "2024-10-13T14:51:36.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,56 +184,60 @@
               "RelativeDocumentMoniker": "BLL\\FacultyService.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BLL\\FacultyService.cs",
               "RelativeToolTip": "BLL\\FacultyService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:48:20.064Z"
+              "WhenOpened": "2024-10-13T14:48:20.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmQuanLyKhoa.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
               "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAIAwwFsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:41:14.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "frmQuanLySinhVien.cs",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
               "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
               "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAtwJ0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAIwPMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:41:02.115Z"
+              "WhenOpened": "2024-10-13T14:41:02.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "frmQuanLyKhoa.cs [Design]",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs",
-              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs [Design]",
+              "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs [Design]",
+              "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLyKhoa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:39:55.32Z"
+              "WhenOpened": "2024-10-13T14:39:55.32Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "frmQuanLySinhVien.cs [Design]",
               "DocumentMoniker": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
               "RelativeDocumentMoniker": "BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs",
-              "ToolTip": "D:\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Tai Lieu Hoc Tap\\Lap Trinh Tren Moi Truong Windows\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs [Design]",
+              "ToolTip": "D:\\Code\\C#\\BAI-TAP-C-SHARP-CO-BAN\\BAI-TAP-07\\BAI TAP BUOI 06 11-10-2024\\BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "BAI TAP BUOI 06 11-10-2024\\frmQuanLySinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:39:53.23Z"
+              "WhenOpened": "2024-10-13T14:39:53.23Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

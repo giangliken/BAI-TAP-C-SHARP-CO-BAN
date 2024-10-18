@@ -87,7 +87,7 @@ namespace BAI_TAP_BUOI_06_11_10_2024
                 MessageBox.Show("Thông tin khoa đã được xóa thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 // Làm mới DataGridView
-                //frmQuanLyChuyenNganh_Load(sender, e);
+                frmQuanLyChuyenNganh_Load(sender, e);
             }
             catch (Exception ex)
             {

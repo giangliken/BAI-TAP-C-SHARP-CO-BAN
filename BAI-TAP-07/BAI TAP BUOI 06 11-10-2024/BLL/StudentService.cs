@@ -38,7 +38,7 @@ namespace BLL
                                join major in context.Major on new { student.FacultyID, student.MajorID }
                                equals new { FacultyID = major.FacultyID, MajorID = major.MajorID }
                                join faculty in context.Faculty on major.FacultyID equals faculty.FacultyID
-                               where major.FacultyID == 0
+                               where faculty.FacultyName == "None"
                                select new StudentViewModel
                                {
                                    StudentID = student.StudentID,
