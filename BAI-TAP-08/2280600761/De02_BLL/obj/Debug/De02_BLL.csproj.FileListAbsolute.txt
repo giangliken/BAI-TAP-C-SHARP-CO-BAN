@@ -1,0 +1,15 @@
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_BLL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_BLL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_BLL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_DAL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\EntityFramework.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_DAL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\De02_DAL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\EntityFramework.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\obj\Debug\De02_BLL.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\obj\Debug\De02_BLL.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\obj\Debug\De02_BLL.csproj.Up2Date
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\obj\Debug\De02_BLL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 07 18-10-2024\DE 2\De02\De02_BLL\obj\Debug\De02_BLL.pdb
