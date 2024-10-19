@@ -1,0 +1,23 @@
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BAI TAP BUOI 08 19-10-2024.exe.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BAI TAP BUOI 08 19-10-2024.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BAI TAP BUOI 08 19-10-2024.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BLL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\DAL.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\EntityFramework.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BLL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\BLL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\DAL.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\DAL.dll.config
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\EntityFramework.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\BAI_TAP_BUOI_08_19_10_2024.frmQuanLySinhVien.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\BAI_TAP_BUOI_08_19_10_2024.Properties.Resources.resources
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\GUI.csproj.Up2Date
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\BAI TAP BUOI 08 19-10-2024.exe
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\obj\Debug\BAI TAP BUOI 08 19-10-2024.pdb
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\SunnyUI.dll
+D:\Tai Lieu Hoc Tap\Lap Trinh Tren Moi Truong Windows\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\BAI TAP BUOI 08 19-10-2024\bin\Debug\SunnyUI.Common.dll
